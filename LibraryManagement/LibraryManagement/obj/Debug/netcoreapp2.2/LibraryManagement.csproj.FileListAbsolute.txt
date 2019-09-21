@@ -1,0 +1,11 @@
+E:\LibraryManagement\LibraryManagement\bin\Debug\netcoreapp2.2\LibraryManagement.deps.json
+E:\LibraryManagement\LibraryManagement\bin\Debug\netcoreapp2.2\LibraryManagement.runtimeconfig.json
+E:\LibraryManagement\LibraryManagement\bin\Debug\netcoreapp2.2\LibraryManagement.runtimeconfig.dev.json
+E:\LibraryManagement\LibraryManagement\bin\Debug\netcoreapp2.2\LibraryManagement.dll
+E:\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp2.2\LibraryManagement.csproj.CoreCompileInputs.cache
+E:\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp2.2\LibraryManagement.AssemblyInfoInputs.cache
+E:\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp2.2\LibraryManagement.AssemblyInfo.cs
+E:\LibraryManagement\LibraryManagement\bin\Debug\netcoreapp2.2\LibraryManagement.pdb
+E:\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp2.2\LibraryManagement.dll
+E:\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp2.2\LibraryManagement.pdb
+E:\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp2.2\LibraryManagement.csprojAssemblyReference.cache
